@@ -1,7 +1,7 @@
 # Modeling-and-Simulation-Project
-Project for the Modeling and Simulation class at UNAM Campus ENES Morelia
+Project for the Modeling and Simulation class at [UNAM Campus ENES Morelia](https://www.enesmorelia.unam.mx/) 
 
-This project will be based upon a **Probabilistic Model** using Python
+This project will be based upon a **Probabilistic Model** using Python3
 
 The roles assigned in this project are:
 
