@@ -20,6 +20,8 @@ Markov chains have numerous applications in Bayesian insights, thermodynamics, c
 
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Markovkate_01.svg/1200px-Markovkate_01.svg.png)
 
+In the same way, Markov analysis, allows finding the probability that a system is in a particular state at a given time. More importantly, it allows you to find the long-term average or steady-state probabilities for each state. With this information, the behavior of the system can be predicted over time. The hardest task is recognizing when it can be applied. The most important feature to look for in memory from one event to another.
+
 
 # Project approach
 
