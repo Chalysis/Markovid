@@ -14,9 +14,9 @@ The roles assigned in this project are:
 
 # Description: 
 
-Named after the Russian mathematician Andrey Markov, a Markov chain is a special type of discrete stochastic process in which the probability of an event occurring depends only on the immediately preceding event is known as the Markov chain or Markov model. 
+Named after the Russian mathematician Andrey Markov, a Markov chain is a special type of discrete stochastic process in which the probability of an event occurring depends only on the immediately preceding event. This is also known as Markov model. 
 
-Markov chains have numerous applications as measurable models of real-world forms cash trade rates, and creature populace dynamics, as well as in Bayesian insights, thermodynamics, chemistry, economics, finance, signal processing, information theory and speech processing. For example, for neural networks, they serve in Boltzmann machines. In genetics, Markov chains are used to describe the change in gene frequencies in a small population.
+Markov chains have numerous applications in Bayesian insights, thermodynamics, chemistry, economics, finance, signal processing, information theory and speech processing. For example, for neural networks, they serve in Boltzmann machines. In genetics, Markov chains are used to describe the change in gene frequencies in a small population.
 
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Markovkate_01.svg/1200px-Markovkate_01.svg.png)
 
