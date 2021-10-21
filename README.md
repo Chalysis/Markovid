@@ -12,7 +12,7 @@ The roles assigned in this project are:
 + Public Relations: [Luis David Huante](https://github.com/LuisDHuante)
 
 
-# Description: 
+# Description
 
 Named after the Russian mathematician Andrey Markov, a Markov chain is a special type of discrete stochastic process in which the probability of an event occurring depends only on the immediately preceding event. This is also known as Markov model. 
 
