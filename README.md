@@ -12,16 +12,12 @@ The roles assigned in this project are:
 + Public Relations: [Luis David Huante](https://github.com/LuisDHuante)
 
 
-# Descripción: 
+# Description: 
 
-Cadenas de Markov
+Named after the Russian mathematician Andrey Markov, a Markov chain is a special type of discrete stochastic process in which the probability of an event occurring depends only on the immediately preceding event is known as the Markov chain or Markov model. 
 
-Una cadena de Markov o proceso de Markov es un modelo estocástico que describe una secuencia de sucesos posibles en la que la probabilidad de cada suceso depende únicamente del estado alcanzado en el suceso anterior. Una secuencia infinitamente numerable, en la que la cadena pasa de un estado a otro en pasos de tiempo discretos, da lugar a una cadena de Markov de tiempo discreto (CMTD). Un proceso de tiempo continuo se denomina cadena de Markov de tiempo continuo (CTMC). Recibe su nombre del matemático ruso Andrey Markov.
+Markov chains have numerous applications as measurable models of real-world forms cash trade rates, and creature populace dynamics, as well as in Bayesian insights, thermodynamics, chemistry, economics, finance, signal processing, information theory and speech processing. For example, for neural networks, they serve in Boltzmann machines. In genetics, Markov chains are used to describe the change in gene frequencies in a small population.
 
-Las cadenas de Markov tienen muchas aplicaciones como modelos estadísticos de procesos del mundo real, como el estudio de los sistemas de control de crucero en los vehículos de motor, las colas o filas de clientes que llegan a un aeropuerto, los tipos de cambio de divisas y la dinámica de las poblaciones animales.
+# Project approach
 
-Los procesos de Markov son la base de los métodos generales de simulación estocástica conocidos como Markov chain Monte Carlo, que se utilizan para simular el muestreo de distribuciones de probabilidad complejas y han encontrado aplicación en la estadística bayesiana, la termodinámica, la mecánica estadística, la física, la química, la economía, las finanzas, el procesamiento de señales, la teoría de la información y el procesamiento del habla.
-
-# Enfoque del proyecto
-
-El proyecto está enfocado al uso de un modelo probabilístico usando Python 3 usando datos concernientes a la pandemia de COVID-19. Se usarán datos de distintos países para comparar y obtener conclusiones informativas sobre dichos datos.
+The project is focused on the use of a probabilistic model using Python 3 using data concerning the COVID-19 pandemic. Data from different countries will be used to compare and obtain informative conclusions on these data.
