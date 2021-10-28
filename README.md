@@ -45,4 +45,4 @@ The data we will be using is located in Mexico and covers from January 2021 to S
 We will use **Markov Chains** for modelling.
 
 ## Hypothesis
-The objective of the project consists of looking for revealing information concerning the data obtained by the COVID-19 pandemic from different sources. Different computational and mathematical methods, such as Markov chains, will be used to achieve these results and perform a probability-based model to obtain revealing information.
+The objective of the project consists of looking for revealing information concerning the vaccination data obtained by the COVID-19 pandemic from different national sources. Different computational and mathematical methods, such as Markov chains, will be used to achieve these results and perform a probability-based model to obtain revealing information.
