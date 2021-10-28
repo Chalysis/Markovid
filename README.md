@@ -43,3 +43,6 @@ The main objective is to model the behaviour of COVID-19 pandemic in Mexico cons
 The data we will be using is located in Mexico and covers from January 2021 to September 2021.
 ### Model
 We will use **Markov Chains** for modelling.
+
+## Hypothesis
+The objective of the project consists of looking for revealing information concerning the data obtained by the COVID-19 pandemic from different sources. Different computational and mathematical methods, such as Markov chains, will be used to achieve these results and perform a probability-based model to obtain revealing information.
