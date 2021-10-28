@@ -27,6 +27,16 @@ In the same way, Markov analysis, allows finding the probability that a system i
 
 The project is focused on the use of a probabilistic model using Python 3 using data concerning the COVID-19 pandemic. Data from different countries will be used to compare and obtain informative conclusions on these data.
 
+##Why did we do this project?
+
+The SARS-Cov-2 coronavirus is a virus that appeared in China. Later it spread to all the continents of the world causing a pandemic. Currently Europe and America are the most affected.
+
+This new virus causes the disease known as COVID-19.
+
+We are in a unique moment in the history of humanity because we are facing a pandemic, this disease has affected millions of people around the world, so this is the best time to observe their behavior. As a Mexican team, we are going to focus on data from Mexico to look at the problem from a more centralized point of view.
+
+From January 1 to August 3, 2021, one million 433 thousand 123 people tested positive for COVID-19 in Mexico, according to the open data of COVID-19 cases from the SSa. Of these, 92,371 (6.45 percent) had been vaccinated against the disease.
+
 ## Objectives
 The main objective is to model the behaviour of COVID-19 pandemic in Mexico considering the effect that the vaccination campaign. 
 ### Time and space
