@@ -26,3 +26,10 @@ In the same way, Markov analysis, allows finding the probability that a system i
 # Project approach
 
 The project is focused on the use of a probabilistic model using Python 3 using data concerning the COVID-19 pandemic. Data from different countries will be used to compare and obtain informative conclusions on these data.
+
+## Objectives
+The main objective is to model the behaviour of COVID-19 pandemic in Mexico considering the effect that the vaccination campaign. 
+### Time and space
+The data we will be using is located in Mexico and covers from January 2021 to September 2021.
+### Model
+We will use **Markov Chains** for modelling.
