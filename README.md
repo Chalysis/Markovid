@@ -27,7 +27,7 @@ In the same way, Markov analysis, allows finding the probability that a system i
 
 The project is focused on the use of a probabilistic model using Python 3 using data concerning the COVID-19 pandemic. Data from different countries will be used to compare and obtain informative conclusions on these data.
 
-##Why did we do this project?
+## Why did we do this project?
 
 The SARS-Cov-2 coronavirus is a virus that appeared in China. Later it spread to all the continents of the world causing a pandemic. Currently Europe and America are the most affected.
 
