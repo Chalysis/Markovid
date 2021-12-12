@@ -46,3 +46,21 @@ We will use **Markov Chains** for modelling.
 
 ## Hypothesis
 The objective of the project consists of looking for revealing information concerning the vaccination data obtained by the COVID-19 pandemic from different national sources. Different computational and mathematical methods, such as Markov chains, will be used to achieve these results and perform a probability-based model to obtain revealing information.
+
+# Architecture
+The architecture of the model will be a **Markov Chain**.
+## States
+To create a proper Markov Chain, first we need to define our states, after checking up the data, we can consider the next states:
+* Healthy (S) This state is for anyone who doesn't have any kind of degenerative disease.
+* Risk (R) This state is to represent anyone with a degenerative diseas.
+* Infected (I) This state represents anyone that is infected with the virus SARs-CoV-2.
+* Hospitalised (H) This state represents anyone who has COVID-19 and as result is hispitalised.
+* Intensive Care Unit (C) In this state the person infected and hospitalised requieres special care.
+* Intubated (T) In this state the hospitalised person requires to be intubated.
+* Dead (D) THis stae represents people who died from COVID-19.
+
+## Transictions
+We have our set of states
+$$Q = \{S, R, I, H, C , T , D\}$$
+Now we just need to define our transictions to create the base for our Markov Chain, in this case, the transitios are presented in the next graph.
+![image](./cadena.png)
