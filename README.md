@@ -64,3 +64,6 @@ We have our set of states
 $$Q = \{S, R, I, H, C , T , D\}$$
 Now we just need to define our transictions to create the base for our Markov Chain, in this case, the transitios are presented in the next graph.
 ![image](./cadena.png)
+
+# Dataset
+For this project we will be using a partial dataset from [Secretaría de Salud](https://datos.gob.mx/busca/dataset/informacion-referente-a-casos-covid-19-en-mexico/resource/477a3ac2-3f40-4c78-8b7f-f3615144bc26), this dataset is available [here](https://mega.nz/file/v0clEQSA#E27P6xbheE5z0Jf-4g4oOpnYLZFWfkMew95DIa3hsgA)
