@@ -60,8 +60,9 @@ To create a proper Markov Chain, first we need to define our states, after check
 * Dead (D) THis stae represents people who died from COVID-19.
 
 ## Transictions
-We have our set of states
-$$Q = \{S, R, I, H, C , T , D\}$$
+We have our set of states</br>
+<img src="https://render.githubusercontent.com/render/math?math=Q = \{S, R, I, H, C , T , D\}">
+
 Now we just need to define our transictions to create the base for our Markov Chain, in this case, the transitios are presented in the next graph.
 ![image](./cadena.png)
 
