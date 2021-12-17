@@ -48,7 +48,7 @@ We will use **Markov Chains** for modelling.
 The objective of the project consists of looking for revealing information concerning the vaccination data obtained by the COVID-19 pandemic from different national sources. Different computational and mathematical methods, such as Markov chains, will be used to achieve these results and perform a probability-based model to obtain revealing information.
 
 # Architecture
-The architecture of the model will be a **Markov Chain**.
+The architecture of the model will be a **Markov Chain**. The current architecture is the first version, it might be modified in future  realeses
 ## States
 To create a proper Markov Chain, first we need to define our states, after checking up the data, we can consider the next states:
 * Healthy (S) This state is for anyone who doesn't have any kind of degenerative disease.
@@ -68,3 +68,9 @@ Now we just need to define our transictions to create the base for our Markov Ch
 
 # Dataset
 For this project we will be using a partial dataset from [Secretaría de Salud](https://datos.gob.mx/busca/dataset/informacion-referente-a-casos-covid-19-en-mexico/resource/477a3ac2-3f40-4c78-8b7f-f3615144bc26), this dataset is available [here](https://mega.nz/file/v0clEQSA#E27P6xbheE5z0Jf-4g4oOpnYLZFWfkMew95DIa3hsgA)
+
+# Results
+The expected results are 
+* A complete Markov chain that describes the pandemic.
+* Contagion, hospitalisation and death rate.
+* Plots that show the progress of the pandemic. 
