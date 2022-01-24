@@ -51,20 +51,23 @@ The objective of the project consists of looking for revealing information conce
 The architecture of the model will be a **Markov Chain**. The current architecture is the first version, it might be modified in future  realeses
 ## States
 To create a proper Markov Chain, first we need to define our states, after checking up the data, we can consider the next states:
-* Healthy (S) This state is for anyone who doesn't have any kind of degenerative disease.
-* Risk (R) This state is to represent anyone with a degenerative diseas.
-* Infected (I) This state represents anyone that is infected with the virus SARs-CoV-2.
+* Symptomatic (S) This state is for anyone who presents COVID-19 symptoms.
+* Negative (N) The person with symptoms doesn't has COVID-19.
+* Positive (P) This state represents anyone that is infected with the virus SARs-CoV-2.
 * Hospitalised (H) This state represents anyone who has COVID-19 and as result is hispitalised.
-* Intensive Care Unit (C) In this state the person infected and hospitalised requieres special care.
-* Intubated (T) In this state the hospitalised person requires to be intubated.
 * Dead (D) THis stae represents people who died from COVID-19.
 
 ## Transictions
 We have our set of states</br>
-<img src="https://render.githubusercontent.com/render/math?math=Q = \{S, R, I, H, C , T , D\}">
+<img src="https://render.githubusercontent.com/render/math?math=Q = \{S, R, I, H , D\}">
+
+![image](./estados.png)
 
 Now we just need to define our transictions to create the base for our Markov Chain, in this case, the transictions are presented in the next graph.
 ![image](./cadena.png)
+
+After a first analysis, we get these probabilities:
+![image](./cadena_probs.png)
 
 # Dataset
 For this project we will be using a partial dataset from [Secretaría de Salud](https://datos.gob.mx/busca/dataset/informacion-referente-a-casos-covid-19-en-mexico/resource/477a3ac2-3f40-4c78-8b7f-f3615144bc26), this dataset is available [here](https://mega.nz/file/v0clEQSA#E27P6xbheE5z0Jf-4g4oOpnYLZFWfkMew95DIa3hsgA)
