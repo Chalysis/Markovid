@@ -70,7 +70,7 @@ After a first analysis, we get these probabilities:
 ![image](./cadena_probs.png)
 
 # Dataset
-For this project we will be using a partial dataset from [Secretaría de Salud](https://datos.gob.mx/busca/dataset/informacion-referente-a-casos-covid-19-en-mexico), this dataset is available [here](https://docs.google.com/uc?export=download&confirm)
+For this project we will be using a partial dataset from [Secretaría de Salud](https://datos.gob.mx/busca/dataset/informacion-referente-a-casos-covid-19-en-mexico), this dataset is available [here](https://docs.google.com/uc?export=download&id=1-KDj7eWXJ63X4lqgm1BJdFEIbF19xdrw)
 
 # Results
 The expected results are 
