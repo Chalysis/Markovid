@@ -77,3 +77,7 @@ The expected results are
 * A complete Markov chain that describes the pandemic.
 * Contagion, hospitalisation and death rate.
 * Plots that show the progress of the pandemic. 
+
+# Conclusion
+
+The data worked on were obtained at the end of the year 2021, at this stage of the pandemic in Mexico the vaccination stage was already advanced and it can be seen with these simulations how deaths and hospitalizations decrease over time and all this is thanks to the vaccination.
